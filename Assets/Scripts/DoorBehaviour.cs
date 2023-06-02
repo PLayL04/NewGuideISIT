@@ -15,4 +15,7 @@ public class DoorBehaviour : MonoBehaviour, IInteractable
         Animator.SetBool("isOpenDoor1", isOpen);
         isOpen = !isOpen;
     }
+    /*
+     * ”ниверсальный комментарий
+     */
 }
